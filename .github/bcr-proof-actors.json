@@ -1,0 +1,15 @@
+{
+  "automation_id": 101593810,
+  "automation_login": "asdstazotasdtest1",
+  "bcr_base_sha": "ad578efb66cf006c54091629dc4b3c9412b03b27",
+  "frontend_sha": "c7a1a2ca5c6eadb06120d8b4019def8e594e3732",
+  "new_version": "12.2.1",
+  "old_version": "12.2.0.bcr.1",
+  "removed_target": "@fmt//:package_metadata",
+  "reviewer_sha": "d1c4eb730271188868ab8d934df3a1507c0b07eb",
+  "target_repo": "staz0t/bcr-presubmit-live-20261115t192512",
+  "trusted_presubmit_sha256": "d6a5d512d0e099f851850911660e8bcf5d3ad243fdb011aa796ea17837d56f9e",
+  "validator_sha": "5449a7683977378f1da885c2c4b254dbaf995d04",
+  "victim_id": 26545664,
+  "victim_login": "staz0t"
+}
